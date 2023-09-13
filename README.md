@@ -1,6 +1,5 @@
 # sklearn-expense-tracker
- Python app that takes in raw transaction data, classifies individual purchases using logistic regression, then outputs statistics and charts.
-
+ Python app that takes in raw transaction data, classifies individual purchases using singular value decomposition, then outputs statistics and charts.
 
 ## Steps to take:
 
